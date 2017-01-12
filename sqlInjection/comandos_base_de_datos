@@ -1,0 +1,4 @@
+create database ejercicio;
+use ejercicio;
+create table usuaris (nombre char(20) not null primary key, contrasenya char(128));
+
